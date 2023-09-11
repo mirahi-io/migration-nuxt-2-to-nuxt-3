@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-example",
+  "version": "1.0.0",
+  "description": "An example project built using Nuxt",
+  "author": "BenShelton <bensheltonjones@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/robots": "^2.5.0",
+    "nuxt": "^2.17.1",
+    "vue-notifications": "^0.9.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "~2.17.0"
+  }
+}
