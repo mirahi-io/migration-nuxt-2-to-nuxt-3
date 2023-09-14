@@ -18,18 +18,6 @@ Migrating from Nuxt 2 to Nuxt 3 requires careful consideration and a step-by-ste
 
 ### Steps:
 
-
-1. **Create Boilerplate**
-    - Update `app.vue`: By default, Nuxt 3 does not generate page routing and layouts in the same manner as Nuxt 2.  to include `NuxtLayout` and `NuxtPage`.
-    - Create a default layout file in `layouts/default.vue`.
-    - Add a basic index page in `pages/index.vue`.
-
-2. **Migrate Runtime Config / env**
-    - Replace the `env` key in `nuxt.config.ts` with the new runtime config structure. Refer to the [Migrate Runtime Config](https://nuxt.com/docs/bridge/overview#update-runtime-config) doc for detailed steps.
-
-
-### Steps:
-
 A fresh Nuxt 3 app is already created into nuxt-3 folder. You don't need to initiate a new project.
 
 2. **Create Boilerplate**
