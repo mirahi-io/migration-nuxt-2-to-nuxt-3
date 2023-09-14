@@ -29,10 +29,10 @@ start to where you aim to finish, with practical exercises to reinforce your lea
 
 1. [Migrating Application Boilerplate and Config](./nuxt-3-starting/exercise/exercise-1.md)
 2. [Migrating Components](./nuxt-3-starting/exercise/exercise-2.md)
-   3.[Migrating Page](./nuxt-3-starting/exercise/exercise-3.md)
-   4.[Migrating Modules and Plugins](./nuxt-3-starting/exercise/exercise-4.md)
-   5.[Migrating State Management](./nuxt-3-starting/exercise/exercise-5.md)
-   6.[Migrating Server Routes](./nuxt-3-starting/exercise/exercise-6.md)
+3.[Migrating Page](./nuxt-3-starting/exercise/exercise-3.md)
+4.[Migrating Modules and Plugins](./nuxt-3-starting/exercise/exercise-4.md)
+5.[Migrating State Management](./nuxt-3-starting/exercise/exercise-5.md)
+6.[Migrating Server Routes](./nuxt-3-starting/exercise/exercise-6.md)
 
 Thank you for participating in the Nuxt 3 Migration Workshop! We hope these exercises have provided you with a solid
 understanding of the migration process and the new features in Nuxt 3.
